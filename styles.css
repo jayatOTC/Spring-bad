@@ -1,0 +1,12 @@
+@charset "utf-8";
+@font-face
+
+body
+{
+  background-color: black;
+  text-decoration-color: black;
+}
+header
+{
+  text-align: center;
+}
